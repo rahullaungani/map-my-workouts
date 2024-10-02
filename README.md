@@ -1,4 +1,4 @@
-#Mapty Project
+# Mapty Project
 
 Track your workout (running/cycling) details.
 
