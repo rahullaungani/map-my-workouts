@@ -8,4 +8,4 @@ Derive workout statistics.
 
 Store details on local storage.
 
-<strong>Refer to the follow charts attached for more context.</strong>
+<strong>Refer to the followcharts attached for more context.</strong>
